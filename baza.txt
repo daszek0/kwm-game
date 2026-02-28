@@ -1,0 +1,22 @@
+teamy:
+	username
+	hasło
+	kolejność stacji
+zadania:
+	id
+	nazwa
+	pozycja nullable
+	opis
+	limit czasu nullable
+	typ zadania - stacja/sidequest
+wykonania zadań
+	id stacji
+	id teamu
+	czas
+	punkty
+	zdjęcie
+admini
+	username
+	hasło
+	uprawnienia - maska?
+	
